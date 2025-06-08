@@ -2,9 +2,6 @@
 An ESP32-based RFID Attendance system featuring card scanning, audio feedback via DFPlayer Mini, real-time date/time display on an OLED, and data logging to Google Sheets.
 
 
-// secrets.h
-#ifndef SECRETS_H // Include guards to prevent multiple inclusions
-#define SECRETS_H
 
 #define WIFI_SSID "bishal_paul"
 // Your actual WiFi network name, remove "bishal_paul" and put your Wifi Name like "xyz"
